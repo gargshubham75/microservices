@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="contact_service"/>
+<aop-project name="e_server"/>
+</aop-reference-model>
